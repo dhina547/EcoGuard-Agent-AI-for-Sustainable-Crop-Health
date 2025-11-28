@@ -30,7 +30,7 @@ Each agent performs a specialized role and passes structured outputs to the next
 
 ## 🏗 System Architecture
 
-![EcoGuard System Architecture](architecture/ecoguard_architecture.png)
+![EcoGuard System Architecture](ecoguard_architecture.png)
 
 ---
 
